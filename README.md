@@ -2,6 +2,7 @@
 ## Instalación
 correr el siguiente comando: <br>
 ./mvnw spring-boot:run
+requiere Java 17
 # Arquitectura
 La arquitectura que se empleó para este proyecto es Domain-Driven Design (DDD) que se centra en modelar el dominio del negocio y estructurar el código en torno a este dominio, es especialmente útil para aplicaciones empresariales
 ## Capas del proyecto
